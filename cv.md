@@ -1,33 +1,38 @@
-# Ildar Badrutdinov
+# __Ildar Badrutdinov__
 
 *******************
 
-## Contacts
+## __Contacts__
     * Discord: Ildar#4986
     * Email: webaldar@gmail.com
     * Tel: 8800324576
 
 *******************
 
-## About me
-    I am studying at the zero level in RSSchool
+## __About me__
+    I am studying at JS/FE Pre-School 2022Q2 in RSSchool
 
 *******************
 
-## Skills
+## __Skills__
     * HTML (basik)
     * CSS (basik)
 
 *******************
-My code example:
+## __My code example:__
 
     ```
     function multiply(a, b){
         return (a * b);
     }
     ```
-    ****************
+****************
 
-## Language
+## __Work experience:__
+    
+    _no work experience_
+
+## __Language:__
 
     * Russian
+    * English A1
