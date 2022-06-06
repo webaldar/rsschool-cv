@@ -19,6 +19,14 @@
     * CSS (basik)
 
 *******************
+My code example:
+
+    ```
+    function multiply(a, b){
+        return (a * b);
+    }
+    ```
+    ****************
 
 ## Language
 
